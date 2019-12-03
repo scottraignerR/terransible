@@ -31,5 +31,5 @@ asg_grace		= "300"
 asg_hct			= "EC2"
 asg_cap			= "2"
 lc_instance_type	= "t2.micro"
-#delegation_set 		= "N1HDAZB52OQ3IV"
+delegation_set 		= "N2K51PSQ1LZ3GS"
 #test = {}
